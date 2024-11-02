@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, My name is Zikry Adjie Nugraha</h1>
-<h3 align="center">AI Data Scientist specializing in AI, machine learning, data analytics, NLP, and computer vision, with over 2.5 years of experience in IT consulting, solving complex business problems for more than 10 top national and international companies across e-commerce, digital marketing, finance, automotive, and agricultural industries.</h3>
+<h3 align="left">AI Data Scientist specializing in AI, machine learning, data analytics, NLP, and computer vision, with over 2.5 years of experience in IT consulting, solving complex business problems for more than 10 top national and international companies across e-commerce, digital marketing, finance, automotive, and agricultural industries.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nugrahazikry&label=Profile%20views&color=0e75b6&style=flat" alt="nugrahazikry" /> </p>
 
